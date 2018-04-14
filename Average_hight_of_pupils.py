@@ -1,6 +1,17 @@
+# File: Average_hight_of_pupils.py
+# Description: Reading information from the file and finding the average values
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# [1] Valentyn N Sichkar. Reading information from the file and finding the average values // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Average_hight_of_pupils (date of access: XX.XX.XXXX)
+
+
 # Implementing the task
 # Find out the average hight of pupils from each class
-
 # Creating the function to update dictionary
 def u_d(d, key, value):
     if key in d:
@@ -25,4 +36,3 @@ for i in range(1, 12):
     else:
         print(i, '-')
 print(a)
-
