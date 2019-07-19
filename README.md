@@ -1,9 +1,6 @@
 # Average hight of pupils
 Reading information from the file and finding the average values
 
-### Courses:
-* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
-
 ### Reference to:
 [1] Valentyn N Sichkar. Reading information from the file and finding the average values // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Average_hight_of_pupils (date of access: XX.XX.XXXX)
 
